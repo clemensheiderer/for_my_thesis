@@ -1,11 +1,25 @@
-# for subtree creator
+# Subtree Creator
 
+This repository contains a subtree creator tool.
 
-for M25311
+## Examples for M25311
 
-examples for NodeA - NodeB:
+### Example 1:
 
-Node3 - Node4 
-Node35 - Node37 
-Node2 - Node46 
-Node25 - Amylostereum_laevigatum
+- **NodeA:** Node3
+- **NodeB:** Node4
+
+### Example 2:
+
+- **NodeA:** Node35
+- **NodeB:** Node37
+
+### Example 3:
+
+- **NodeA:** Node2
+- **NodeB:** Node46
+
+### Example 4:
+
+- **NodeA:** Node25
+- **NodeB:** Amylostereum_laevigatum
