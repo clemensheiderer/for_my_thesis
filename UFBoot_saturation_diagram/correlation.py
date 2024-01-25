@@ -239,10 +239,9 @@ def main(csv_file, print_p_value_output=False):
 
 
 
-
 if __name__ == "__main__":
     title = "****************Correlation diagram between saturation and UFBoot values***************"
-    description = f"This script reads data from a CSV file and generates plots with correlation analysis. It requires a CSV file containing the data to be  plotted.  It will search for the .node.treefile and .treefile automatically. It needs all three files for creating the saturation, UFBoot diagram with a regression line."
+    description = f"This script reads data from a CSV file and generates plots with correlation analysis. It requires a CSV file containing the data to be plotted. It will search for the .node.treefile and .treefile automatically. It needs all three files for creating the saturation, UFBoot diagram with a regression line."
 
     parser = argparse.ArgumentParser(description=description)
     parser.add_argument("csv", type=str, help="Path to the CSV file")
@@ -251,5 +250,6 @@ if __name__ == "__main__":
     # Print the title
     print("\033[1m" + title + "\033[0m\n")
 
-    # Print the rest of the help message
-    parser.print_help()
+    # Call main function with parsed arguments
+    args = parser.parse_args()
+    main(args.csv, args.print_p_value_output)
