@@ -1,0 +1,28 @@
+Running IQ-TREE with constructed arguments
+Please consider for the analysis that IQ-Tree will be running with default options.
+If specific options are required for the analysis, please run IQ-Tree separately.
+Used IQ-TREE options:
+-s /home/clemens/Dokumente/phylogeny/sim64/center_3/with_alisim_for_JC+G4/JC+G4_ML_1/64_1_JC+G4_center3.fa
+--ufboot 10000 -m JC+G4 --quiet --keep-ident -wspr
+
+            Running tests and initial IQ-Tree with configurations:
+            Mode msa + model
+            Model: JC+G4
+            Alpha: 0.05
+            Running Saturation Test on file: /home/clemens/Dokumente/phylogeny/sim64/center_3/with_alisim_for_JC+G4/JC+G4_ML_1/64_1_JC+G4_center3.fa
+            Number of rate categories: 4
+            Considered rate category: all
+            Options for Initial IQ-Tree run: msa + model
+            Multiplicity: 3
+            Run test for saturation for each branch and category with 4 rate categories
+            Results will be written to the directory:JC+G4_ML_1
+            
+Category Rate p1, Site per category 230
+Category Rate p2, Site per category 297
+Category Rate p3, Site per category 178
+Category Rate p4, Site per category 295
+Nexus file written successfully: /home/clemens/Dokumente/phylogeny/sim64/center_3/with_alisim_for_JC+G4/JC+G4_ML_1/64_1_JC+G4_center3.fa_p1_0.05.satute.nex
+Nexus file written successfully: /home/clemens/Dokumente/phylogeny/sim64/center_3/with_alisim_for_JC+G4/JC+G4_ML_1/64_1_JC+G4_center3.fa_p2_0.05.satute.nex
+Nexus file written successfully: /home/clemens/Dokumente/phylogeny/sim64/center_3/with_alisim_for_JC+G4/JC+G4_ML_1/64_1_JC+G4_center3.fa_p3_0.05.satute.nex
+Nexus file written successfully: /home/clemens/Dokumente/phylogeny/sim64/center_3/with_alisim_for_JC+G4/JC+G4_ML_1/64_1_JC+G4_center3.fa_p4_0.05.satute.nex
+Finished writing results for category rates to files
