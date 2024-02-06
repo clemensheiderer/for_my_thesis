@@ -402,9 +402,11 @@ class SubtreeCreator(QWidget):
                                 taxas = subtree_to_fasta(subtree)
 
                                 sequences = fasta_copy(fasta_sequence, taxas)
+                                NodeA_filename = NodeA.replace("/", "_")
+                                NodeB_filename = NodeB.replace("/", "_")
 
                                 output_prefix = os.path.splitext(os.path.basename(fasta_file_path))[0]
-                                output_filename = f"{output_prefix}_subtree{i}_{NodeA}_{NodeB}.fasta"
+                                output_filename = f"{output_prefix}_subtree{i}_{NodeA_filename}_{NodeB_filename}.fasta"
                                 output_file = os.path.join(subtrees_fasta_directory, output_filename)
                                 with open(output_file, 'w') as file:
                                     file.write('\n'.join(sequences))
