@@ -1,0 +1,25 @@
+Running IQ-TREE with constructed arguments
+If no model is specified in input arguments, best-fit model will be extracted from log file.
+Please consider for the analysis that IQ-Tree will be running with default options.
+If specific options are required for the analysis, please run IQ-Tree separately.
+Used IQ-TREE options for Model Finder run:
+-s /home/clemens/Downloads/PF3560/PF3560_2/PF3560.fasta
+-m MF --quiet
+Used IQ-TREE options for final run:
+-s /home/clemens/Downloads/PF3560/PF3560_2/PF3560.fasta
+--ufboot 10000 -m JC --redo --keep-ident --quiet
+
+            Running tests and initial IQ-Tree with configurations:
+            Mode msa
+            Model: JC
+            Alpha: 0.05
+            Running Saturation Test on file: /home/clemens/Downloads/PF3560/PF3560_2/PF3560.fasta
+            Number of rate categories: 1
+            Considered rate category: all
+            Options for Initial IQ-Tree run: msa
+            Multiplicity: 3
+            Run test for saturation for each branch and category with 1 rate categories
+            Results will be written to the directory:PF3560_2
+            
+Finished writing CSV file: /home/clemens/Downloads/PF3560/PF3560_2/PF3560.fasta_0.05.satute.csv
+Nexus file written successfully: /home/clemens/Downloads/PF3560/PF3560_2/PF3560.fasta_0.05.satute.nex

@@ -1,0 +1,8 @@
+
+           /-Claviceps_purpurea_clp1, 0.1795745688
+          |
+-Node1*, 0.0-Claviceps_fusiformis_clf1, 0.5070289201
+          |
+          |                    /-Claviceps_paspali_cpas2, 2.4181e-06
+           \Node2*, 0.1285442079
+                               \-Claviceps_sorghicola_cjap2, 0.0035284228

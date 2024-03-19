@@ -1,0 +1,121 @@
+#nexus
+
+BEGIN Taxa;
+DIMENSIONS ntax=11;
+TAXLABELS
+[1] 'Claviceps_purpurea_clp1'
+[2] 'Claviceps_purpurea_clp2'
+[3] 'Claviceps_fusiformis_clf1'
+[4] 'Claviceps_paspali_cpas1'
+[5] 'Claviceps_paspali_cpas2'
+[6] 'Claviceps_sorghicola_cjap2'
+[7] 'Claviceps_sorghicola_cjap4'
+[8] 'Claviceps_africana_cla2'
+[9] 'Claviceps_africana_cla7'
+[10] 'Claviceps_africana_cls1'
+[11] 'Claviceps_africana_cls2'
+;
+END; [Taxa]
+
+BEGIN Splits;
+DIMENSIONS ntax=11 nsplits=95;
+FORMAT labels=no weights=yes confidences=no intervals=no;
+MATRIX
+	100	 2,
+	100	 8,
+	100	 9,
+	100	 11,
+	25	 9 11,
+	15	 8 9 11,
+	100	 10,
+	73	 8 9 10 11,
+	18	 2 8 9 10 11,
+	100	 7,
+	79	 1 3 4 5 6,
+	100	 4,
+	79	 1 3 5 6,
+	100	 5,
+	100	 6,
+	46	 5 6,
+	77	 1 3,
+	100	 3,
+	100	 1,
+	69	 2 7,
+	46	 1 3 5,
+	18	 9 10,
+	53	 9 10 11,
+	4	 2 7 9 10 11,
+	34	 10 11,
+	6	 8 10 11,
+	11	 4 6,
+	12	 2 7 8,
+	2	 2 7 8 10 11,
+	13	 1 5 6,
+	1	 2 4,
+	14	 2 4 7,
+	1	 2 4 7 8,
+	4	 3 5 6,
+	17	 8 9,
+	11	 7 8 9 10 11,
+	7	 4 5 6,
+	2	 3 4 5 6,
+	8	 8 10,
+	10	 8 9 10,
+	3	 1 3 4 5,
+	3	 4 8 9 10 11,
+	7	 8 11,
+	2	 1 3 5 6 8,
+	0	 2 4 7 9,
+	0	 2 7 8 11,
+	3	 2 7 8 9,
+	3	 3 4,
+	1	 1 3 5 6 7,
+	1	 4 7,
+	0	 4 9,
+	2	 2 7 9,
+	3	 2 7 8 9 11,
+	3	 1 4 5 6,
+	1	 4 5,
+	0	 2 7 10,
+	1	 2 7 10 11,
+	0	 4 8 9,
+	0	 4 8 9 10,
+	1	 2 7 8 10,
+	0	 1 3 5 6 9,
+	0	 1 6,
+	1	 2 7 8 9 10,
+	1	 1 3 4,
+	1	 4 9 10 11,
+	2	 1 3 6,
+	0	 1 5,
+	0	 1 3 4 6,
+	1	 4 8,
+	0	 2 7 11,
+	0	 1 3 5 6 10,
+	0	 1 3 5 6 11,
+	0	 3 5,
+	0	 2 7 9 10,
+	0	 2 4 7 8 11,
+	0	 4 10,
+	0	 2 4 7 8 10,
+	0	 2 4 7 10,
+	0	 1 2 3 5 6,
+	0	 2 7 9 11,
+	0	 2 4 7 11,
+	0	 4 8 9 11,
+	0	 3 6,
+	0	 1 4,
+	0	 2 4 7 10 11,
+	0	 2 4 7 9 10,
+	0	 2 4 7 8 9,
+	0	 2 4 7 9 11,
+	0	 4 8 10 11,
+	0	 4 10 11,
+	0	 4 9 10,
+	0	 1 4 5,
+	0	 1 4 6,
+	0	 3 4 5,
+	0	 3 4 6,
+;
+END; [Splits]
+

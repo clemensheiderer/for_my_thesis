@@ -1,0 +1,18 @@
+IQ-TREE multicore version 2.2.0 COVID-edition for Linux 64-bit built Jun  1 2022
+Developed by Bui Quang Minh, James Barbetti, Nguyen Lam Tung,
+Olga Chernomor, Heiko Schmidt, Dominik Schrempf, Michael Woodhams, Ly Trong Nhan.
+
+Host:    clemens-NUC6CAYH (SSE4.2, 7 GB RAM)
+Command: iqtree2 -t four_five.nwk -sup PF3560_subtree1_Node4*_Node5*.fasta.ufboot
+Seed:    227716 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Wed Feb  7 17:50:59 2024
+Kernel:  SSE2 - 1 threads (4 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 4 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading tree PF3560_subtree1_Node4*_Node5*.fasta.ufboot ...
+unrooted tree detected
+Reading tree(s) file four_five.nwk ...
+1 tree(s) loaded (1 rooted and 0 unrooted)
+ERROR: Target tree and tree set have different rooting

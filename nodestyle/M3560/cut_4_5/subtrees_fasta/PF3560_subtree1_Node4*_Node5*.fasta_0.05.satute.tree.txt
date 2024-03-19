@@ -1,0 +1,12 @@
+
+           /-Claviceps_purpurea_clp2, 1e-06
+          |
+-Node1*, 0.0-Claviceps_sorghicola_cjap4, 1e-06
+          |
+          |                    /-Claviceps_africana_cla2, 0.0014721096
+           \Node2*, 0.2221846626
+                              |                    /-Claviceps_africana_cla7, 1e-06
+                               \Node3*, 0.0016503829
+                                                  |             /-Claviceps_africana_cls1, 1e-06
+                                                   \Node4*, 1e-06
+                                                                \-Claviceps_africana_cls2, 1e-06

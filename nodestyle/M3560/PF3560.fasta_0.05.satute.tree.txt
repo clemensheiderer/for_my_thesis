@@ -1,0 +1,22 @@
+
+           /-Claviceps_purpurea_clp1, 0.1803575947
+          |
+          |                                                                                               /-Claviceps_purpurea_clp2, 1e-06
+          |                                                                             /Node6*, 2.6606e-06
+          |                                                                            |                  \-Claviceps_sorghicola_cjap4, 1e-06
+          |                                                          /Node5*, 2.333531978
+          |                                                         |                  |                    /-Claviceps_africana_cla2, 0.001301926
+          |                                                         |                   \Node7*, 0.2222549513
+          |                                                         |                                      |                    /-Claviceps_africana_cla7, 1e-06
+          |                                        /Node4*, 2.34115512                                      \Node8*, 0.0018228437
+-Node1*, 0.0                                      |                 |                                                          |             /-Claviceps_africana_cls1, 1e-06
+          |                                       |                 |                                                           \Node9*, 1e-06
+          |                    /Node3*, 0.0035267596                |                                                                        \-Claviceps_africana_cls2, 1e-06
+          |                   |                   |                 |
+          |                   |                   |                  \-Claviceps_paspali_cpas1, 2.4679e-06
+          |-Node2*, 0.1288287463                  |
+          |                   |                    \-Claviceps_sorghicola_cjap2, 2.8961e-06
+          |                   |
+          |                    \-Claviceps_paspali_cpas2, 2.6864e-06
+          |
+           \-Claviceps_fusiformis_clf1, 0.5060455269

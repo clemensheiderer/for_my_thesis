@@ -1,0 +1,21 @@
+Running IQ-TREE with constructed arguments
+Please consider for the analysis that IQ-Tree will be running with default options.
+If specific options are required for the analysis, please run IQ-Tree separately.
+Used IQ-TREE options:
+-s /home/clemens/Downloads/M3560/M3560_2/cut_3_4/subtrees_fasta/PF3560_remaining.fasta
+--ufboot 10000 -m JC --quiet --keep-ident
+
+            Running tests and initial IQ-Tree with configurations:
+            Mode msa + model
+            Model: JC
+            Alpha: 0.05
+            Running Saturation Test on file: /home/clemens/Downloads/M3560/M3560_2/cut_3_4/subtrees_fasta/PF3560_remaining.fasta
+            Number of rate categories: 1
+            Considered rate category: all
+            Options for Initial IQ-Tree run: msa + model
+            Multiplicity: 3
+            Run test for saturation for each branch and category with 1 rate categories
+            Results will be written to the directory:subtrees_fasta
+            
+Finished writing CSV file: /home/clemens/Downloads/M3560/M3560_2/cut_3_4/subtrees_fasta/PF3560_remaining.fasta_0.05.satute.csv
+Nexus file written successfully: /home/clemens/Downloads/M3560/M3560_2/cut_3_4/subtrees_fasta/PF3560_remaining.fasta_0.05.satute.nex
