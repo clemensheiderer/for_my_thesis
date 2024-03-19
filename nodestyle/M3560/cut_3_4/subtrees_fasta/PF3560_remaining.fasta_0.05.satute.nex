@@ -1,0 +1,4 @@
+#NEXUS
+BEGIN TREES;
+Tree tree1 = (Claviceps_purpurea_clp1:0.179575[&delta=1.2349140747241947,c_s=0.10581454469899193,p_value=1.9852051676258335e-82,result_test=Informative],Claviceps_fusiformis_clf1:0.507029[&delta=0.8926344567985738,c_s=0.11332206711711418,p_value=1.0799119663879758e-38,result_test=Informative],(Claviceps_paspali_cpas2:2.4181e-06[&delta=2.0392389064742504,c_s=0.1228099530062211,p_value=1.5059342158397767e-164,result_test=Informative],Claviceps_sorghicola_cjap2:0.00352842[&delta=2.0558503479900905,c_s=0.12340888757392324,p_value=1.3205827594204746e-165,result_test=Informative])Node2*:0.128544[&delta=1.1542542687226034,c_s=0.10525359806350838,p_value=4.8888443760904547e-73,result_test=Informative])Node1*:0;
+END TREES;

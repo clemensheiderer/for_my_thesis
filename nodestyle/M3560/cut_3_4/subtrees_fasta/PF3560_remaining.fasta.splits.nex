@@ -1,0 +1,26 @@
+#nexus
+
+BEGIN Taxa;
+DIMENSIONS ntax=4;
+TAXLABELS
+[1] 'Claviceps_purpurea_clp1'
+[2] 'Claviceps_fusiformis_clf1'
+[3] 'Claviceps_paspali_cpas2'
+[4] 'Claviceps_sorghicola_cjap2'
+;
+END; [Taxa]
+
+BEGIN Splits;
+DIMENSIONS ntax=4 nsplits=7;
+FORMAT labels=no weights=yes confidences=no intervals=no;
+MATRIX
+	100	 2,
+	100	 3,
+	100	 4,
+	99	 1 2,
+	100	 1,
+	0	 1 3,
+	0	 1 4,
+;
+END; [Splits]
+
