@@ -1,0 +1,7 @@
+0: Node8*-Node24*:0.85
+1: Node24*-Node40*:1.0, Node24*-Node25*:0.94
+2: Node25*-Node37*:0.75, Node40*-Node41*:0.63, Node25*-Node26*:0.59, Node40*-Node52*:0.65
+3: Node52*-Node54*:0.99, Node52*-Node53*:0.81, Node37*-Node39*:0.97, Node41*-Node42*:0.86, Node37*-Node38*:0.98, Node26*-Node27*:0.78, Node41*-Node49*:0.93, Node26*-Node34*:0.98
+4: Node39*-t101010, Node34*-Node35*:1.0, Node39*-t101011, Node42*-Node43*:0.96, Node42*-Node46*:0.91, Node34*-Node36*:0.97, Node38*-t101001, Node49*-Node50*:0.99, Node53*-t111100, Node49*-Node51*:1.0, Node54*-t111110, Node27*-Node28*:0.99, Node38*-t101000, Node53*-t111101, Node54*-t111111, Node27*-Node31*:0.88
+5: Node50*-t111000, Node46*-Node47*:1.0, Node46*-Node48*:0.92, Node51*-t111010, Node31*-Node33*:1.0, Node36*-t101110, Node28*-Node30*:1.0, Node35*-t101100, Node31*-Node32*:0.93, Node36*-t101111, Node50*-t111001, Node43*-Node45*:0.98, Node28*-Node29*:0.99, Node51*-t111011, Node43*-Node44*:0.98, Node35*-t101101
+6: Node29*-t100001, Node33*-t100111, Node47*-t110100, Node29*-t100000, Node32*-t100100, Node44*-t110001, Node47*-t110101, Node30*-t100011, Node45*-t110011, Node45*-t110010, Node32*-t100101, Node33*-t100110, Node30*-t100010, Node48*-t110110, Node44*-t110000, Node48*-t110111

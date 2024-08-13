@@ -1,0 +1,8 @@
+1: Node8*-Node9*:0.99, Node8*-Node7*:1.0
+2: Node9*-t010110, Node9*-Node10*:0.73, Node7*-Node6*:0.23, Node7*-t000101
+3: Node6*-Node5*:0.45, Node10*-t010111, Node10*-Node11*:0.84, Node6*-t000100
+4: Node5*-Node4*:0.54, Node11*-Node12*:0.91, Node11*-Node23*:0.99, Node5*-Node55*:1.0
+5: Node4*-Node2*:0.68, Node4*-Node56*:0.96, Node23*-t010100, Node12*-Node13*:0.94, Node55*-t000111, Node12*-Node16*:0.99, Node55*-t000110, Node23*-t010101
+6: Node2*-Node3*:1.0, Node16*-Node17*:1.0, Node13*-Node15*:0.96, Node13*-Node14*:1.0, Node2*-Node1*:0.71, Node56*-Node57*:1.0, Node56*-Node60*:0.97, Node16*-Node20*:0.98
+7: Node15*-t010011, Node15*-t010010, Node3*-t000010, Node14*-t010000, Node57*-Node59*:0.99, Node3*-t000011, Node17*-Node18*:1.0, Node60*-Node62*:0.97, Node17*-Node19*:1.0, Node57*-Node58*:0.99, Node20*-Node21*:0.99, Node1*-t000001, Node60*-Node61*:1.0, Node20*-Node22*:0.99, Node1*-t000000, Node14*-t010001
+8: Node61*-t001101, Node21*-t011100, Node58*-t001001, Node58*-t001000, Node59*-t001011, Node18*-t011001, Node59*-t001010, Node18*-t011000, Node19*-t011011, Node62*-t001111, Node22*-t011110, Node62*-t001110, Node21*-t011101, Node22*-t011111, Node19*-t011010, Node61*-t001100

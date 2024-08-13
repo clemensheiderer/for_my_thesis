@@ -1,0 +1,473 @@
+Processing directory: /home/clemens/Dokumente/phylogeny/april/April/four/four_0.01/four_0.01_1
+Parsed Newick tree from /home/clemens/Dokumente/phylogeny/april/April/four/four_0.01/four_0.01_1/four_0.01_1.fa_0.05.satute.node.treefile:
+Tree(rooted=False, weight=1.0)
+    Clade()
+        Clade(branch_length=0.010324, name='t000000')
+        Clade(branch_length=0.00921109, name='t000001')
+        Clade(branch_length=0.0165058, name='Node2*')
+            Clade(branch_length=0.00892995, name='Node3*')
+                Clade(branch_length=0.00505751, name='t000010')
+                Clade(branch_length=0.0165912, name='t000011')
+            Clade(branch_length=0.00946506, name='Node4*')
+                Clade(branch_length=0.01077, name='Node5*')
+                    Clade(branch_length=0.00530982, name='Node6*')
+                        Clade(branch_length=0.0102928, name='t000100')
+                        Clade(branch_length=2.258e-06, name='Node7*')
+                            Clade(branch_length=0.011366, name='t000101')
+                            Clade(branch_length=3.34764, name='Node8*')
+                                Clade(branch_length=2.38368, name='Node9*')
+                                    Clade(branch_length=0.0103193, name='Node10*')
+                                        Clade(branch_length=0.0056434, name='Node11*')
+                                            Clade(branch_length=0.00979169, name='Node12*')
+                                                Clade(branch_length=0.00558951, name='Node13*')
+                                                    Clade(branch_length=0.00727213, name='Node14*')
+                                                        Clade(branch_length=0.0166385, name='t010000')
+                                                        Clade(branch_length=0.00712954, name='t010001')
+                                                    Clade(branch_length=0.015716, name='Node15*')
+                                                        Clade(branch_length=0.00706327, name='t010010')
+                                                        Clade(branch_length=0.0135426, name='t010011')
+                                                Clade(branch_length=0.0165703, name='Node16*')
+                                                    Clade(branch_length=0.0131504, name='Node17*')
+                                                        Clade(branch_length=0.00977816, name='Node18*')
+                                                            Clade(branch_length=0.0061313, name='t011000')
+                                                            Clade(branch_length=0.0123761, name='t011001')
+                                                        Clade(branch_length=0.0103351, name='Node19*')
+                                                            Clade(branch_length=0.0119907, name='t011010')
+                                                            Clade(branch_length=0.0107114, name='t011011')
+                                                    Clade(branch_length=0.00724119, name='Node20*')
+                                                        Clade(branch_length=0.0103627, name='Node21*')
+                                                            Clade(branch_length=0.0187445, name='t011100')
+                                                            Clade(branch_length=0.0124397, name='t011101')
+                                                        Clade(branch_length=0.00612259, name='Node22*')
+                                                            Clade(branch_length=0.0176839, name='t011110')
+                                                            Clade(branch_length=0.00714047, name='t011111')
+                                            Clade(branch_length=0.0132755, name='Node23*')
+                                                Clade(branch_length=0.00923906, name='t010100')
+                                                Clade(branch_length=0.0113471, name='t010101')
+                                        Clade(branch_length=0.0071322, name='t010111')
+                                    Clade(branch_length=2.5101e-06, name='t010110')
+                                Clade(branch_length=0.798273, name='Node24*')
+                                    Clade(branch_length=1.51512, name='Node25*')
+                                        Clade(branch_length=0.00913625, name='Node26*')
+                                            Clade(branch_length=0.0165098, name='Node27*')
+                                                Clade(branch_length=0.00837362, name='Node28*')
+                                                    Clade(branch_length=0.0193533, name='Node29*')
+                                                        Clade(branch_length=0.00676597, name='t100000')
+                                                        Clade(branch_length=0.00563727, name='t100001')
+                                                    Clade(branch_length=0.0129719, name='Node30*')
+                                                        Clade(branch_length=0.0113221, name='t100010')
+                                                        Clade(branch_length=0.00507881, name='t100011')
+                                                Clade(branch_length=0.0156969, name='Node31*')
+                                                    Clade(branch_length=0.00961625, name='Node32*')
+                                                        Clade(branch_length=0.0102815, name='t100100')
+                                                        Clade(branch_length=0.00925318, name='t100101')
+                                                    Clade(branch_length=0.00836795, name='Node33*')
+                                                        Clade(branch_length=0.00509462, name='t100110')
+                                                        Clade(branch_length=0.0113204, name='t100111')
+                                            Clade(branch_length=0.00975931, name='Node34*')
+                                                Clade(branch_length=0.0109245, name='Node35*')
+                                                    Clade(branch_length=0.0123776, name='t101100')
+                                                    Clade(branch_length=0.0124144, name='t101101')
+                                                Clade(branch_length=0.00664917, name='Node36*')
+                                                    Clade(branch_length=0.0126556, name='t101110')
+                                                    Clade(branch_length=0.00940436, name='t101111')
+                                        Clade(branch_length=2.1127e-06, name='Node37*')
+                                            Clade(branch_length=0.0106423, name='Node38*')
+                                                Clade(branch_length=0.00610378, name='t101000')
+                                                Clade(branch_length=0.0102871, name='t101001')
+                                            Clade(branch_length=0.0164674, name='Node39*')
+                                                Clade(branch_length=0.00678118, name='t101010')
+                                                Clade(branch_length=0.00651813, name='t101011')
+                                    Clade(branch_length=3.37159, name='Node40*')
+                                        Clade(branch_length=2.6196e-06, name='Node41*')
+                                            Clade(branch_length=0.029543, name='Node42*')
+                                                Clade(branch_length=0.0154646, name='Node43*')
+                                                    Clade(branch_length=0.00841214, name='Node44*')
+                                                        Clade(branch_length=0.0124037, name='t110000')
+                                                        Clade(branch_length=0.0139044, name='t110001')
+                                                    Clade(branch_length=0.0119271, name='Node45*')
+                                                        Clade(branch_length=0.00645012, name='t110010')
+                                                        Clade(branch_length=0.0061137, name='t110011')
+                                                Clade(branch_length=0.0156604, name='Node46*')
+                                                    Clade(branch_length=0.0103878, name='Node47*')
+                                                        Clade(branch_length=0.0134106, name='t110100')
+                                                        Clade(branch_length=0.0113848, name='t110101')
+                                                    Clade(branch_length=0.011438, name='Node48*')
+                                                        Clade(branch_length=0.00610159, name='t110110')
+                                                        Clade(branch_length=0.00926069, name='t110111')
+                                            Clade(branch_length=0.00476006, name='Node49*')
+                                                Clade(branch_length=0.00830192, name='Node50*')
+                                                    Clade(branch_length=0.00793852, name='t111000')
+                                                    Clade(branch_length=0.0105443, name='t111001')
+                                                Clade(branch_length=0.0135132, name='Node51*')
+                                                    Clade(branch_length=0.00903003, name='t111010')
+                                                    Clade(branch_length=0.00427785, name='t111011')
+                                        Clade(branch_length=0.0153562, name='Node52*')
+                                            Clade(branch_length=0.00747476, name='Node53*')
+                                                Clade(branch_length=0.00503783, name='t111100')
+                                                Clade(branch_length=0.0145381, name='t111101')
+                                            Clade(branch_length=0.00991627, name='Node54*')
+                                                Clade(branch_length=0.00575317, name='t111110')
+                                                Clade(branch_length=0.0151427, name='t111111')
+                    Clade(branch_length=0.0103805, name='Node55*')
+                        Clade(branch_length=0.00739085, name='t000110')
+                        Clade(branch_length=0.0132199, name='t000111')
+                Clade(branch_length=0.0230766, name='Node56*')
+                    Clade(branch_length=0.013054, name='Node57*')
+                        Clade(branch_length=0.00641874, name='Node58*')
+                            Clade(branch_length=0.0110627, name='t001000')
+                            Clade(branch_length=0.0142611, name='t001001')
+                        Clade(branch_length=0.00897056, name='Node59*')
+                            Clade(branch_length=0.0100454, name='t001010')
+                            Clade(branch_length=0.00635765, name='t001011')
+                    Clade(branch_length=0.00823258, name='Node60*')
+                        Clade(branch_length=0.0113467, name='Node61*')
+                            Clade(branch_length=0.00510963, name='t001100')
+                            Clade(branch_length=0.000992015, name='t001101')
+                        Clade(branch_length=0.00720545, name='Node62*')
+                            Clade(branch_length=0.0133985, name='t001110')
+                            Clade(branch_length=0.0113287, name='t001111')
+CSV file /home/clemens/Dokumente/phylogeny/april/April/four/four_0.01/four_0.01_1/four_0.01_1.fa_p4_0.05.satute.csv loaded successfully.
+(t000000:0.010324,t000001:0.00921109,((t000010:0.00505751,t000011:0.0165912)Node3*:0.00892995,(((t000100:0.0102928,(t000101:0.011366,(((((((t010000:0.0166385,t010001:0.00712954)Node14*:0.00727213,(t010010:0.00706327,t010011:0.0135426)Node15*:0.015716)Node13*:0.00558951,(((t011000:0.0061313,t011001:0.0123761)Node18*:0.00977816,(t011010:0.0119907,t011011:0.0107114)Node19*:0.0103351)Node17*:0.0131504,((t011100:0.0187445,t011101:0.0124397)Node21*:0.0103627,(t011110:0.0176839,t011111:0.00714047)Node22*:0.00612259)Node20*:0.00724119)Node16*:0.0165703)Node12*:0.00979169,(t010100:0.00923906,t010101:0.0113471)Node23*:0.0132755)Node11*:0.0056434,t010111:0.0071322)Node10*:0.0103193,t010110:2.5101e-06)Node9*:2.38368,((((((t100000:0.00676597,t100001:0.00563727)Node29*:0.0193533,(t100010:0.0113221,t100011:0.00507881)Node30*:0.0129719)Node28*:0.00837362,((t100100:0.0102815,t100101:0.00925318)Node32*:0.00961625,(t100110:0.00509462,t100111:0.0113204)Node33*:0.00836795)Node31*:0.0156969)Node27*:0.0165098,((t101100:0.0123776,t101101:0.0124144)Node35*:0.0109245,(t101110:0.0126556,t101111:0.00940436)Node36*:0.00664917)Node34*:0.00975931)Node26*:0.00913625,((t101000:0.00610378,t101001:0.0102871)Node38*:0.0106423,(t101010:0.00678118,t101011:0.00651813)Node39*:0.0164674)Node37*:2.1127e-06)Node25*:1.51512,(((((t110000:0.0124037,t110001:0.0139044)Node44*:0.00841214,(t110010:0.00645012,t110011:0.0061137)Node45*:0.0119271)Node43*:0.0154646,((t110100:0.0134106,t110101:0.0113848)Node47*:0.0103878,(t110110:0.00610159,t110111:0.00926069)Node48*:0.011438)Node46*:0.0156604)Node42*:0.029543,((t111000:0.00793852,t111001:0.0105443)Node50*:0.00830192,(t111010:0.00903003,t111011:0.00427785)Node51*:0.0135132)Node49*:0.00476006)Node41*:2.6196e-06,((t111100:0.00503783,t111101:0.0145381)Node53*:0.00747476,(t111110:0.00575317,t111111:0.0151427)Node54*:0.00991627)Node52*:0.0153562)Node40*:3.37159)Node24*:0.798273)Node8*:3.34764)Node7*:2.258e-06)Node6*:0.00530982,(t000110:0.00739085,t000111:0.0132199)Node55*:0.0103805)Node5*:0.01077,(((t001000:0.0110627,t001001:0.0142611)Node58*:0.00641874,(t001010:0.0100454,t001011:0.00635765)Node59*:0.00897056)Node57*:0.013054,((t001100:0.00510963,t001101:0.000992015)Node61*:0.0113467,(t001110:0.0133985,t001111:0.0113287)Node62*:0.00720545)Node60*:0.00823258)Node56*:0.0230766)Node4*:0.00946506)Node2*:0.0165058);
+(t000000:0.0103239733,t000001:0.0092110897,((t000010:0.0050575064,t000011:0.0165912303)100:0.0089299521,(((t000100:0.0102927635,(t000101:0.0113659651,(((((((t010000:0.0166384595,t010001:0.0071295398)100:0.0072721268,(t010010:0.0070632727,t010011:0.0135425695)96:0.0157159737)94:0.0055895142,(((t011000:0.0061313019,t011001:0.0123761113)100:0.0097781641,(t011010:0.0119906624,t011011:0.0107113535)100:0.0103351238)100:0.0131504105,((t011100:0.0187444770,t011101:0.0124397014)99:0.0103626592,(t011110:0.0176839418,t011111:0.0071404671)99:0.0061225903)98:0.0072411911)99:0.0165702770)91:0.0097916916,(t010100:0.0092390618,t010101:0.0113471439)99:0.0132754979)84:0.0056433988,t010111:0.0071322046)73:0.0103192683,t010110:0.0000025101)99:2.3836778010,((((((t100000:0.0067659695,t100001:0.0056372729)99:0.0193533217,(t100010:0.0113221057,t100011:0.0050788109)100:0.0129718773)99:0.0083736214,((t100100:0.0102814794,t100101:0.0092531847)93:0.0096162506,(t100110:0.0050946152,t100111:0.0113204317)100:0.0083679464)88:0.0156969198)78:0.0165098086,((t101100:0.0123776082,t101101:0.0124144389)100:0.0109245458,(t101110:0.0126556367,t101111:0.0094043600)97:0.0066491718)98:0.0097593097)59:0.0091362547,((t101000:0.0061037777,t101001:0.0102871345)98:0.0106422574,(t101010:0.0067811829,t101011:0.0065181345)97:0.0164673771)75:0.0000021127)94:1.5151212950,(((((t110000:0.0124036703,t110001:0.0139044341)98:0.0084121377,(t110010:0.0064501181,t110011:0.0061136968)98:0.0119271001)96:0.0154646499,((t110100:0.0134106183,t110101:0.0113847975)100:0.0103878046,(t110110:0.0061015875,t110111:0.0092606873)92:0.0114379664)91:0.0156603505)86:0.0295430351,((t111000:0.0079385169,t111001:0.0105442820)99:0.0083019247,(t111010:0.0090300313,t111011:0.0042778496)100:0.0135131669)93:0.0047600597)63:0.0000026196,((t111100:0.0050378326,t111101:0.0145381137)81:0.0074747551,(t111110:0.0057531747,t111111:0.0151427402)99:0.0099162743)65:0.0153561822)100:3.3715863400)85:0.7982733798)100:3.3476377450)23:0.0000022580)45:0.0053098238,(t000110:0.0073908526,t000111:0.0132198970)100:0.0103805327)54:0.0107700361,(((t001000:0.0110627349,t001001:0.0142610779)99:0.0064187408,(t001010:0.0100453533,t001011:0.0063576462)99:0.0089705582)100:0.0130539859,((t001100:0.0051096316,t001101:0.0009920145)100:0.0113466870,(t001110:0.0133984831,t001111:0.0113287083)97:0.0072054543)97:0.0082325825)96:0.0230765936)68:0.0094650610)71:0.0165057800);
+
+     Unnamed: 0                edge  ...  category_rate  branch_length
+0             0   (t000000, Node1*)  ...             p4       0.024974
+1             1   (t000001, Node1*)  ...             p4       0.022282
+2             2    (Node2*, Node1*)  ...             p4       0.039927
+3             3    (Node3*, Node2*)  ...             p4       0.021602
+4             4    (Node4*, Node2*)  ...             p4       0.022896
+..          ...                 ...  ...            ...            ...
+120         120  (t011011, Node19*)  ...             p4       0.025911
+121         121  (t011100, Node21*)  ...             p4       0.045343
+122         122  (t011101, Node21*)  ...             p4       0.030092
+123         123  (t011110, Node22*)  ...             p4       0.042777
+124         124  (t011111, Node22*)  ...             p4       0.017273
+
+[125 rows x 10 columns]
+Tree(rooted=False, weight=1.0)
+    Clade()
+        Clade(branch_length=0.010324, name='t000000')
+        Clade(branch_length=0.00921109, name='t000001')
+        Clade(branch_length=0.0165058, name='Node2*')
+            Clade(branch_length=0.00892995, name='Node3*')
+                Clade(branch_length=0.00505751, name='t000010')
+                Clade(branch_length=0.0165912, name='t000011')
+            Clade(branch_length=0.00946506, name='Node4*')
+                Clade(branch_length=0.01077, name='Node5*')
+                    Clade(branch_length=0.00530982, name='Node6*')
+                        Clade(branch_length=0.0102928, name='t000100')
+                        Clade(branch_length=2.258e-06, name='Node7*')
+                            Clade(branch_length=0.011366, name='t000101')
+                            Clade(branch_length=3.34764, name='Node8*')
+                                Clade(branch_length=2.38368, name='Node9*')
+                                    Clade(branch_length=0.0103193, name='Node10*')
+                                        Clade(branch_length=0.0056434, name='Node11*')
+                                            Clade(branch_length=0.00979169, name='Node12*')
+                                                Clade(branch_length=0.00558951, name='Node13*')
+                                                    Clade(branch_length=0.00727213, name='Node14*')
+                                                        Clade(branch_length=0.0166385, name='t010000')
+                                                        Clade(branch_length=0.00712954, name='t010001')
+                                                    Clade(branch_length=0.015716, name='Node15*')
+                                                        Clade(branch_length=0.00706327, name='t010010')
+                                                        Clade(branch_length=0.0135426, name='t010011')
+                                                Clade(branch_length=0.0165703, name='Node16*')
+                                                    Clade(branch_length=0.0131504, name='Node17*')
+                                                        Clade(branch_length=0.00977816, name='Node18*')
+                                                            Clade(branch_length=0.0061313, name='t011000')
+                                                            Clade(branch_length=0.0123761, name='t011001')
+                                                        Clade(branch_length=0.0103351, name='Node19*')
+                                                            Clade(branch_length=0.0119907, name='t011010')
+                                                            Clade(branch_length=0.0107114, name='t011011')
+                                                    Clade(branch_length=0.00724119, name='Node20*')
+                                                        Clade(branch_length=0.0103627, name='Node21*')
+                                                            Clade(branch_length=0.0187445, name='t011100')
+                                                            Clade(branch_length=0.0124397, name='t011101')
+                                                        Clade(branch_length=0.00612259, name='Node22*')
+                                                            Clade(branch_length=0.0176839, name='t011110')
+                                                            Clade(branch_length=0.00714047, name='t011111')
+                                            Clade(branch_length=0.0132755, name='Node23*')
+                                                Clade(branch_length=0.00923906, name='t010100')
+                                                Clade(branch_length=0.0113471, name='t010101')
+                                        Clade(branch_length=0.0071322, name='t010111')
+                                    Clade(branch_length=2.5101e-06, name='t010110')
+                                Clade(branch_length=0.798273, name='Node24*')
+                                    Clade(branch_length=1.51512, name='Node25*')
+                                        Clade(branch_length=0.00913625, name='Node26*')
+                                            Clade(branch_length=0.0165098, name='Node27*')
+                                                Clade(branch_length=0.00837362, name='Node28*')
+                                                    Clade(branch_length=0.0193533, name='Node29*')
+                                                        Clade(branch_length=0.00676597, name='t100000')
+                                                        Clade(branch_length=0.00563727, name='t100001')
+                                                    Clade(branch_length=0.0129719, name='Node30*')
+                                                        Clade(branch_length=0.0113221, name='t100010')
+                                                        Clade(branch_length=0.00507881, name='t100011')
+                                                Clade(branch_length=0.0156969, name='Node31*')
+                                                    Clade(branch_length=0.00961625, name='Node32*')
+                                                        Clade(branch_length=0.0102815, name='t100100')
+                                                        Clade(branch_length=0.00925318, name='t100101')
+                                                    Clade(branch_length=0.00836795, name='Node33*')
+                                                        Clade(branch_length=0.00509462, name='t100110')
+                                                        Clade(branch_length=0.0113204, name='t100111')
+                                            Clade(branch_length=0.00975931, name='Node34*')
+                                                Clade(branch_length=0.0109245, name='Node35*')
+                                                    Clade(branch_length=0.0123776, name='t101100')
+                                                    Clade(branch_length=0.0124144, name='t101101')
+                                                Clade(branch_length=0.00664917, name='Node36*')
+                                                    Clade(branch_length=0.0126556, name='t101110')
+                                                    Clade(branch_length=0.00940436, name='t101111')
+                                        Clade(branch_length=2.1127e-06, name='Node37*')
+                                            Clade(branch_length=0.0106423, name='Node38*')
+                                                Clade(branch_length=0.00610378, name='t101000')
+                                                Clade(branch_length=0.0102871, name='t101001')
+                                            Clade(branch_length=0.0164674, name='Node39*')
+                                                Clade(branch_length=0.00678118, name='t101010')
+                                                Clade(branch_length=0.00651813, name='t101011')
+                                    Clade(branch_length=3.37159, name='Node40*')
+                                        Clade(branch_length=2.6196e-06, name='Node41*')
+                                            Clade(branch_length=0.029543, name='Node42*')
+                                                Clade(branch_length=0.0154646, name='Node43*')
+                                                    Clade(branch_length=0.00841214, name='Node44*')
+                                                        Clade(branch_length=0.0124037, name='t110000')
+                                                        Clade(branch_length=0.0139044, name='t110001')
+                                                    Clade(branch_length=0.0119271, name='Node45*')
+                                                        Clade(branch_length=0.00645012, name='t110010')
+                                                        Clade(branch_length=0.0061137, name='t110011')
+                                                Clade(branch_length=0.0156604, name='Node46*')
+                                                    Clade(branch_length=0.0103878, name='Node47*')
+                                                        Clade(branch_length=0.0134106, name='t110100')
+                                                        Clade(branch_length=0.0113848, name='t110101')
+                                                    Clade(branch_length=0.011438, name='Node48*')
+                                                        Clade(branch_length=0.00610159, name='t110110')
+                                                        Clade(branch_length=0.00926069, name='t110111')
+                                            Clade(branch_length=0.00476006, name='Node49*')
+                                                Clade(branch_length=0.00830192, name='Node50*')
+                                                    Clade(branch_length=0.00793852, name='t111000')
+                                                    Clade(branch_length=0.0105443, name='t111001')
+                                                Clade(branch_length=0.0135132, name='Node51*')
+                                                    Clade(branch_length=0.00903003, name='t111010')
+                                                    Clade(branch_length=0.00427785, name='t111011')
+                                        Clade(branch_length=0.0153562, name='Node52*')
+                                            Clade(branch_length=0.00747476, name='Node53*')
+                                                Clade(branch_length=0.00503783, name='t111100')
+                                                Clade(branch_length=0.0145381, name='t111101')
+                                            Clade(branch_length=0.00991627, name='Node54*')
+                                                Clade(branch_length=0.00575317, name='t111110')
+                                                Clade(branch_length=0.0151427, name='t111111')
+                    Clade(branch_length=0.0103805, name='Node55*')
+                        Clade(branch_length=0.00739085, name='t000110')
+                        Clade(branch_length=0.0132199, name='t000111')
+                Clade(branch_length=0.0230766, name='Node56*')
+                    Clade(branch_length=0.013054, name='Node57*')
+                        Clade(branch_length=0.00641874, name='Node58*')
+                            Clade(branch_length=0.0110627, name='t001000')
+                            Clade(branch_length=0.0142611, name='t001001')
+                        Clade(branch_length=0.00897056, name='Node59*')
+                            Clade(branch_length=0.0100454, name='t001010')
+                            Clade(branch_length=0.00635765, name='t001011')
+                    Clade(branch_length=0.00823258, name='Node60*')
+                        Clade(branch_length=0.0113467, name='Node61*')
+                            Clade(branch_length=0.00510963, name='t001100')
+                            Clade(branch_length=0.000992015, name='t001101')
+                        Clade(branch_length=0.00720545, name='Node62*')
+                            Clade(branch_length=0.0133985, name='t001110')
+                            Clade(branch_length=0.0113287, name='t001111')
+{'t000000': 'Node1*', 't000001': 'Node1*', 'Node2*': 'Node1*', 'Node3*': 'Node2*', 'Node4*': 'Node2*', 't000010': 'Node3*', 't000011': 'Node3*', 'Node5*': 'Node4*', 'Node56*': 'Node4*', 'Node6*': 'Node5*', 'Node55*': 'Node5*', 'Node57*': 'Node56*', 'Node60*': 'Node56*', 't000100': 'Node6*', 'Node7*': 'Node6*', 't000110': 'Node55*', 't000111': 'Node55*', 'Node58*': 'Node57*', 'Node59*': 'Node57*', 'Node61*': 'Node60*', 'Node62*': 'Node60*', 't000101': 'Node7*', 'Node8*': 'Node7*', 't001000': 'Node58*', 't001001': 'Node58*', 't001010': 'Node59*', 't001011': 'Node59*', 't001100': 'Node61*', 't001101': 'Node61*', 't001110': 'Node62*', 't001111': 'Node62*', 'Node9*': 'Node8*', 'Node24*': 'Node8*', 'Node10*': 'Node9*', 't010110': 'Node9*', 'Node25*': 'Node24*', 'Node40*': 'Node24*', 'Node11*': 'Node10*', 't010111': 'Node10*', 'Node26*': 'Node25*', 'Node37*': 'Node25*', 'Node41*': 'Node40*', 'Node52*': 'Node40*', 'Node12*': 'Node11*', 'Node23*': 'Node11*', 'Node27*': 'Node26*', 'Node34*': 'Node26*', 'Node38*': 'Node37*', 'Node39*': 'Node37*', 'Node42*': 'Node41*', 'Node49*': 'Node41*', 'Node53*': 'Node52*', 'Node54*': 'Node52*', 'Node13*': 'Node12*', 'Node16*': 'Node12*', 't010100': 'Node23*', 't010101': 'Node23*', 'Node28*': 'Node27*', 'Node31*': 'Node27*', 'Node35*': 'Node34*', 'Node36*': 'Node34*', 't101000': 'Node38*', 't101001': 'Node38*', 't101010': 'Node39*', 't101011': 'Node39*', 'Node43*': 'Node42*', 'Node46*': 'Node42*', 'Node50*': 'Node49*', 'Node51*': 'Node49*', 't111100': 'Node53*', 't111101': 'Node53*', 't111110': 'Node54*', 't111111': 'Node54*', 'Node14*': 'Node13*', 'Node15*': 'Node13*', 'Node17*': 'Node16*', 'Node20*': 'Node16*', 'Node29*': 'Node28*', 'Node30*': 'Node28*', 'Node32*': 'Node31*', 'Node33*': 'Node31*', 't101100': 'Node35*', 't101101': 'Node35*', 't101110': 'Node36*', 't101111': 'Node36*', 'Node44*': 'Node43*', 'Node45*': 'Node43*', 'Node47*': 'Node46*', 'Node48*': 'Node46*', 't111000': 'Node50*', 't111001': 'Node50*', 't111010': 'Node51*', 't111011': 'Node51*', 't010000': 'Node14*', 't010001': 'Node14*', 't010010': 'Node15*', 't010011': 'Node15*', 'Node18*': 'Node17*', 'Node19*': 'Node17*', 'Node21*': 'Node20*', 'Node22*': 'Node20*', 't100000': 'Node29*', 't100001': 'Node29*', 't100010': 'Node30*', 't100011': 'Node30*', 't100100': 'Node32*', 't100101': 'Node32*', 't100110': 'Node33*', 't100111': 'Node33*', 't110000': 'Node44*', 't110001': 'Node44*', 't110010': 'Node45*', 't110011': 'Node45*', 't110100': 'Node47*', 't110101': 'Node47*', 't110110': 'Node48*', 't110111': 'Node48*', 't011000': 'Node18*', 't011001': 'Node18*', 't011010': 'Node19*', 't011011': 'Node19*', 't011100': 'Node21*', 't011101': 'Node21*', 't011110': 'Node22*', 't011111': 'Node22*'}
+         c_s         delta        p_value  branch_length  result_test   
+0   0.158610  2.733995e+00  3.876744e-177       0.021602  Informative  \
+1   0.159505  2.733667e+00  3.844800e-175       0.017591  Informative   
+2   0.160428  2.716572e+00  4.979211e-171       0.038017  Informative   
+3   0.158152  2.729660e+00  1.352249e-177       0.013521  Informative   
+4   0.158451  2.696741e+00  9.505897e-173       0.023653  Informative   
+5   0.158788  2.652698e+00  1.577956e-166       0.025001  Informative   
+6   0.158865  2.651611e+00  3.092974e-166       0.031811  Informative   
+7   0.159788  2.681175e+00  5.583320e-168       0.025067  Informative   
+8   0.159443  2.728438e+00  1.297959e-174       0.014811  Informative   
+9   0.157149  2.653834e+00  4.090134e-170       0.017516  Informative   
+10  0.160217  2.664559e+00  4.656685e-165       0.040084  Informative   
+11  0.159637  2.739312e+00  1.438801e-175       0.023686  Informative   
+12  0.160209  2.697661e+00  3.831828e-169       0.032113  Informative   
+13  0.159451  2.753161e+00  9.848126e-178       0.013651  Informative   
+14  0.162071  2.811562e+00  2.189248e-179       0.024962  Informative   
+15  0.000093  1.360363e-04   8.005497e-03       5.766117  Informative   
+16  0.158673  2.635090e+00  1.361609e-164       0.046816  Informative   
+17  0.158214  2.665415e+00  2.593439e-169       0.031379  Informative   
+18  0.156771  2.564039e+00  1.037701e-159       0.020256  Informative   
+19  0.158678  2.688972e+00  2.767421e-171       0.023262  Informative   
+20  0.157728  2.712357e+00  2.595832e-176       0.020242  Informative   
+21  0.158437  2.602505e+00  4.474582e-161       0.037971  Informative   
+22  0.159175  2.589696e+00  4.611981e-158       0.039937  Informative   
+23  0.159768  2.684571e+00  1.926430e-168       0.026426  Informative   
+24  0.158896  2.725299e+00  2.099571e-175       0.016084  Informative   
+25  0.158389  2.659973e+00  2.903886e-168       0.023608  Informative   
+26  0.158873  2.654751e+00  1.316766e-166       0.022101  Informative   
+27  0.158196  2.714290e+00  1.573418e-175       0.025744  Informative   
+28  0.159125  2.667516e+00  1.149114e-167       0.039835  Informative   
+29  0.153854  2.577681e+00  1.773842e-167       0.000005  Informative   
+30  0.000007  9.532846e-06   9.191893e-03       3.665078  Informative   
+31  0.157597  2.626893e+00  8.567124e-166       0.020349  Informative   
+32  0.158707  2.695232e+00  5.219047e-172       0.028852  Informative   
+33  0.155245  2.496512e+00  1.777025e-154       0.037409  Informative   
+34  0.157972  2.642087e+00  6.626618e-167       0.025128  Informative   
+35  0.158218  2.696346e+00  3.353083e-173       0.027668  Informative   
+36  0.154839  2.498843e+00  1.458368e-155       0.037882  Informative   
+37  0.159125  2.417798e+00  3.686643e-138       0.071465  Informative   
+38  0.158467  2.715388e+00  4.441829e-175       0.020082  Informative   
+39  0.159617  2.694104e+00  6.110019e-170       0.032688  Informative   
+40  0.155100  2.576738e+00  1.022655e-164       0.011515  Informative   
+41  0.151557  2.465746e+00  4.612313e-158       0.000006  Informative   
+42  0.157979  2.679178e+00  1.523193e-171       0.018081  Informative   
+43  0.158299  2.694465e+00  8.688509e-173       0.023987  Informative   
+44  0.158870  2.590924e+00  8.263588e-159       0.037147  Informative   
+45  0.001220  5.986240e-04   2.097502e-01       8.155867    Saturated   
+46  0.000074  7.996146e-07   4.929524e-01       1.931023    Saturated   
+47  0.161948  2.211779e-05   4.999104e-01       8.097936    Saturated   
+48  0.159809  2.688579e+00  7.476662e-169       0.000005  Informative   
+49  0.158719  2.706483e+00  2.105026e-173       0.012844  Informative   
+50  0.159732  2.705334e+00  4.265721e-171       0.025111  Informative   
+51  0.157979  2.673240e+00  8.579844e-171       0.026053  Informative   
+52  0.158945  2.681843e+00  7.975948e-170       0.015527  Informative   
+53  0.159329  2.731253e+00  3.228641e-175       0.021700  Informative   
+54  0.158676  2.677541e+00  7.442860e-170       0.031578  Informative   
+55  0.160073  2.804871e+00  5.693918e-183       0.027448  Informative   
+56  0.159513  2.751659e+00  2.097437e-177       0.017430  Informative   
+57  0.156922  2.684256e+00  1.763107e-174       0.019915  Informative   
+58  0.158989  2.582516e+00  1.456780e-157       0.055822  Informative   
+59  0.159166  2.663709e+00  4.143675e-167       0.022896  Informative   
+60  0.158996  2.673782e+00  1.029042e-168       0.039927  Informative   
+
+      NodeA-NodeB  boots_float    A-B  
+0     Node3-Node2         1.00    3-2  
+1   Node14-Node13         1.00  14-13  
+2   Node15-Node13         0.96  15-13  
+3   Node13-Node12         0.94  13-12  
+4   Node18-Node17         1.00  18-17  
+5   Node19-Node17         1.00  19-17  
+6   Node17-Node16         1.00  17-16  
+7   Node21-Node20         0.99  21-20  
+8   Node22-Node20         0.99  22-20  
+9   Node20-Node16         0.98  20-16  
+10  Node16-Node12         0.99  16-12  
+11  Node12-Node11         0.91  12-11  
+12  Node23-Node11         0.99  23-11  
+13  Node11-Node10         0.84  11-10  
+14   Node10-Node9         0.73   10-9  
+15    Node9-Node8         0.99    9-8  
+16  Node29-Node28         0.99  29-28  
+17  Node30-Node28         1.00  30-28  
+18  Node28-Node27         0.99  28-27  
+19  Node32-Node31         0.93  32-31  
+20  Node33-Node31         1.00  33-31  
+21  Node31-Node27         0.88  31-27  
+22  Node27-Node26         0.78  27-26  
+23  Node35-Node34         1.00  35-34  
+24  Node36-Node34         0.97  36-34  
+25  Node34-Node26         0.98  34-26  
+26  Node26-Node25         0.59  26-25  
+27  Node38-Node37         0.98  38-37  
+28  Node39-Node37         0.97  39-37  
+29  Node37-Node25         0.75  37-25  
+30  Node25-Node24         0.94  25-24  
+31  Node44-Node43         0.98  44-43  
+32  Node45-Node43         0.98  45-43  
+33  Node43-Node42         0.96  43-42  
+34  Node47-Node46         1.00  47-46  
+35  Node48-Node46         0.92  48-46  
+36  Node46-Node42         0.91  46-42  
+37  Node42-Node41         0.86  42-41  
+38  Node50-Node49         0.99  50-49  
+39  Node51-Node49         1.00  51-49  
+40  Node49-Node41         0.93  49-41  
+41  Node41-Node40         0.63  41-40  
+42  Node53-Node52         0.81  53-52  
+43  Node54-Node52         0.99  54-52  
+44  Node52-Node40         0.65  52-40  
+45  Node40-Node24         1.00  40-24  
+46   Node24-Node8         0.85   24-8  
+47    Node8-Node7         1.00    8-7  
+48    Node7-Node6         0.23    7-6  
+49    Node6-Node5         0.45    6-5  
+50   Node55-Node5         1.00   55-5  
+51    Node5-Node4         0.54    5-4  
+52  Node58-Node57         0.99  58-57  
+53  Node59-Node57         0.99  59-57  
+54  Node57-Node56         1.00  57-56  
+55  Node61-Node60         1.00  61-60  
+56  Node62-Node60         0.97  62-60  
+57  Node60-Node56         0.97  60-56  
+58   Node56-Node4         0.96   56-4  
+59    Node4-Node2         0.68    4-2  
+60    Node2-Node1         0.71    2-1  
+Parent node of the center branch node: ['Node8*', 'Node24*', 'Node24*']
+Parent nodes of clades:  ['Node9*', 'Node25*', 'Node40*']
+center_node node: Node8*
+Node8*
+Node Node24* is shared by clades at indices [1, 2]
+Corresponding Parent nodes of clades:  ['Node25*', 'Node40*']
+Clade corresponding to center node Node25* :
+Taxa in this clade: ['t100000', 't100001', 't100010', 't100011', 't100100', 't100101', 't100110', 't100111', 't101100', 't101101', 't101110', 't101111', 't101000', 't101001', 't101010', 't101011']
+Clade corresponding to center node Node40* :
+Taxa in this clade: ['t110000', 't110001', 't110010', 't110011', 't110100', 't110101', 't110110', 't110111', 't111000', 't111001', 't111010', 't111011', 't111100', 't111101', 't111110', 't111111']
+Sister clade 1 corresponds to nodes3.
+Sister clade 2 corresponds to nodes4.
+Sister clade 1 corresponds to nodes 3.
+Sister clade 2 corresponds to nodes 4.
+Matched Sister Clades: [3, 4]
+Other Sister Clades: [1, 2]
+New nodes1: ['t100000', 't100001', 't100010', 't100011', 't100100', 't100101', 't100110', 't100111', 't101000', 't101001', 't101010', 't101011', 't101100', 't101101', 't101110', 't101111']
+New nodes2: ['t110000', 't110001', 't110010', 't110011', 't110100', 't110101', 't110110', 't110111', 't111000', 't111001', 't111010', 't111011', 't111100', 't111101', 't111110', 't111111']
+New nodes3: ['t001000', 't001001', 't001010', 't001011', 't001100', 't001101', 't001110', 't001111', 't000100', 't000101', 't000110', 't000111', 't000010', 't000011', 't000000', 't000001']
+New nodes4: ['t010000', 't010001', 't010010', 't010011', 't010100', 't010101', 't010110', 't010111', 't011000', 't011001', 't011010', 't011011', 't011100', 't011101', 't011110', 't011111']
+Node8*
+{'t000000': 'Node1*', 't000001': 'Node1*', 'Node2*': 'Node1*', 'Node3*': 'Node2*', 'Node4*': 'Node2*', 't000010': 'Node3*', 't000011': 'Node3*', 'Node5*': 'Node4*', 'Node56*': 'Node4*', 'Node6*': 'Node5*', 'Node55*': 'Node5*', 'Node57*': 'Node56*', 'Node60*': 'Node56*', 't000100': 'Node6*', 'Node7*': 'Node6*', 't000110': 'Node55*', 't000111': 'Node55*', 'Node58*': 'Node57*', 'Node59*': 'Node57*', 'Node61*': 'Node60*', 'Node62*': 'Node60*', 't000101': 'Node7*', 'Node8*': 'Node7*', 't001000': 'Node58*', 't001001': 'Node58*', 't001010': 'Node59*', 't001011': 'Node59*', 't001100': 'Node61*', 't001101': 'Node61*', 't001110': 'Node62*', 't001111': 'Node62*', 'Node9*': 'Node8*', 'Node24*': 'Node8*', 'Node10*': 'Node9*', 't010110': 'Node9*', 'Node25*': 'Node24*', 'Node40*': 'Node24*', 'Node11*': 'Node10*', 't010111': 'Node10*', 'Node26*': 'Node25*', 'Node37*': 'Node25*', 'Node41*': 'Node40*', 'Node52*': 'Node40*', 'Node12*': 'Node11*', 'Node23*': 'Node11*', 'Node27*': 'Node26*', 'Node34*': 'Node26*', 'Node38*': 'Node37*', 'Node39*': 'Node37*', 'Node42*': 'Node41*', 'Node49*': 'Node41*', 'Node53*': 'Node52*', 'Node54*': 'Node52*', 'Node13*': 'Node12*', 'Node16*': 'Node12*', 't010100': 'Node23*', 't010101': 'Node23*', 'Node28*': 'Node27*', 'Node31*': 'Node27*', 'Node35*': 'Node34*', 'Node36*': 'Node34*', 't101000': 'Node38*', 't101001': 'Node38*', 't101010': 'Node39*', 't101011': 'Node39*', 'Node43*': 'Node42*', 'Node46*': 'Node42*', 'Node50*': 'Node49*', 'Node51*': 'Node49*', 't111100': 'Node53*', 't111101': 'Node53*', 't111110': 'Node54*', 't111111': 'Node54*', 'Node14*': 'Node13*', 'Node15*': 'Node13*', 'Node17*': 'Node16*', 'Node20*': 'Node16*', 'Node29*': 'Node28*', 'Node30*': 'Node28*', 'Node32*': 'Node31*', 'Node33*': 'Node31*', 't101100': 'Node35*', 't101101': 'Node35*', 't101110': 'Node36*', 't101111': 'Node36*', 'Node44*': 'Node43*', 'Node45*': 'Node43*', 'Node47*': 'Node46*', 'Node48*': 'Node46*', 't111000': 'Node50*', 't111001': 'Node50*', 't111010': 'Node51*', 't111011': 'Node51*', 't010000': 'Node14*', 't010001': 'Node14*', 't010010': 'Node15*', 't010011': 'Node15*', 'Node18*': 'Node17*', 'Node19*': 'Node17*', 'Node21*': 'Node20*', 'Node22*': 'Node20*', 't100000': 'Node29*', 't100001': 'Node29*', 't100010': 'Node30*', 't100011': 'Node30*', 't100100': 'Node32*', 't100101': 'Node32*', 't100110': 'Node33*', 't100111': 'Node33*', 't110000': 'Node44*', 't110001': 'Node44*', 't110010': 'Node45*', 't110011': 'Node45*', 't110100': 'Node47*', 't110101': 'Node47*', 't110110': 'Node48*', 't110111': 'Node48*', 't011000': 'Node18*', 't011001': 'Node18*', 't011010': 'Node19*', 't011011': 'Node19*', 't011100': 'Node21*', 't011101': 'Node21*', 't011110': 'Node22*', 't011111': 'Node22*'}
+Node8*
+['t100000', 't100001', 't100010', 't100011', 't100100', 't100101', 't100110', 't100111', 't101000', 't101001', 't101010', 't101011', 't101100', 't101101', 't101110', 't101111']
+Order Dictionary Group 1 & 2:
+1: Node8*-Node24*
+2: Node24*-Node40*, Node24*-Node25*
+3: Node25*-Node37*, Node40*-Node41*, Node25*-Node26*, Node40*-Node52*
+4: Node52*-Node54*, Node52*-Node53*, Node37*-Node39*, Node41*-Node42*, Node37*-Node38*, Node26*-Node27*, Node41*-Node49*, Node26*-Node34*
+5: Node39*-t101010, Node34*-Node35*, Node39*-t101011, Node42*-Node43*, Node42*-Node46*, Node34*-Node36*, Node38*-t101001, Node49*-Node50*, Node53*-t111100, Node49*-Node51*, Node54*-t111110, Node27*-Node28*, Node38*-t101000, Node53*-t111101, Node54*-t111111, Node27*-Node31*
+6: Node50*-t111000, Node46*-Node47*, Node46*-Node48*, Node51*-t111010, Node31*-Node33*, Node36*-t101110, Node28*-Node30*, Node35*-t101100, Node31*-Node32*, Node36*-t101111, Node50*-t111001, Node43*-Node45*, Node28*-Node29*, Node51*-t111011, Node43*-Node44*, Node35*-t101101
+7: Node29*-t100001, Node33*-t100111, Node47*-t110100, Node29*-t100000, Node32*-t100100, Node44*-t110001, Node47*-t110101, Node30*-t100011, Node45*-t110011, Node45*-t110010, Node32*-t100101, Node33*-t100110, Node30*-t100010, Node48*-t110110, Node44*-t110000, Node48*-t110111
+Order Dictionary Group 3 & 4:
+1: Node8*-Node9*, Node8*-Node7*
+2: Node9*-t010110, Node9*-Node10*, Node7*-Node6*, Node7*-t000101
+3: Node6*-Node5*, Node10*-t010111, Node10*-Node11*, Node6*-t000100
+4: Node5*-Node4*, Node11*-Node12*, Node11*-Node23*, Node5*-Node55*
+5: Node4*-Node2*, Node4*-Node56*, Node23*-t010100, Node12*-Node13*, Node55*-t000111, Node12*-Node16*, Node55*-t000110, Node23*-t010101
+6: Node2*-Node3*, Node16*-Node17*, Node13*-Node15*, Node13*-Node14*, Node2*-Node1*, Node56*-Node57*, Node56*-Node60*, Node16*-Node20*
+7: Node15*-t010011, Node15*-t010010, Node3*-t000010, Node14*-t010000, Node57*-Node59*, Node3*-t000011, Node17*-Node18*, Node60*-Node62*, Node17*-Node19*, Node57*-Node58*, Node20*-Node21*, Node1*-t000001, Node60*-Node61*, Node20*-Node22*, Node1*-t000000, Node14*-t010001
+8: Node61*-t001101, Node21*-t011100, Node58*-t001001, Node58*-t001000, Node59*-t001011, Node18*-t011001, Node59*-t001010, Node18*-t011000, Node19*-t011011, Node62*-t001111, Node22*-t011110, Node62*-t001110, Node21*-t011101, Node22*-t011111, Node19*-t011010, Node61*-t001100
+Order Dictionary Group 1 & 2 with Boots:
+1: Node8*-Node24*:0.85
+2: Node24*-Node40*:1.0, Node24*-Node25*:0.94
+3: Node25*-Node37*:0.75, Node40*-Node41*:0.63, Node25*-Node26*:0.59, Node40*-Node52*:0.65
+4: Node52*-Node54*:0.99, Node52*-Node53*:0.81, Node37*-Node39*:0.97, Node41*-Node42*:0.86, Node37*-Node38*:0.98, Node26*-Node27*:0.78, Node41*-Node49*:0.93, Node26*-Node34*:0.98
+5: Node39*-t101010, Node34*-Node35*:1.0, Node39*-t101011, Node42*-Node43*:0.96, Node42*-Node46*:0.91, Node34*-Node36*:0.97, Node38*-t101001, Node49*-Node50*:0.99, Node53*-t111100, Node49*-Node51*:1.0, Node54*-t111110, Node27*-Node28*:0.99, Node38*-t101000, Node53*-t111101, Node54*-t111111, Node27*-Node31*:0.88
+6: Node50*-t111000, Node46*-Node47*:1.0, Node46*-Node48*:0.92, Node51*-t111010, Node31*-Node33*:1.0, Node36*-t101110, Node28*-Node30*:1.0, Node35*-t101100, Node31*-Node32*:0.93, Node36*-t101111, Node50*-t111001, Node43*-Node45*:0.98, Node28*-Node29*:0.99, Node51*-t111011, Node43*-Node44*:0.98, Node35*-t101101
+7: Node29*-t100001, Node33*-t100111, Node47*-t110100, Node29*-t100000, Node32*-t100100, Node44*-t110001, Node47*-t110101, Node30*-t100011, Node45*-t110011, Node45*-t110010, Node32*-t100101, Node33*-t100110, Node30*-t100010, Node48*-t110110, Node44*-t110000, Node48*-t110111
+Order Dictionary Group 3 & 4 with Boots:
+1: Node8*-Node9*:0.99, Node8*-Node7*:1.0
+2: Node9*-t010110, Node9*-Node10*:0.73, Node7*-Node6*:0.23, Node7*-t000101
+3: Node6*-Node5*:0.45, Node10*-t010111, Node10*-Node11*:0.84, Node6*-t000100
+4: Node5*-Node4*:0.54, Node11*-Node12*:0.91, Node11*-Node23*:0.99, Node5*-Node55*:1.0
+5: Node4*-Node2*:0.68, Node4*-Node56*:0.96, Node23*-t010100, Node12*-Node13*:0.94, Node55*-t000111, Node12*-Node16*:0.99, Node55*-t000110, Node23*-t010101
+6: Node2*-Node3*:1.0, Node16*-Node17*:1.0, Node13*-Node15*:0.96, Node13*-Node14*:1.0, Node2*-Node1*:0.71, Node56*-Node57*:1.0, Node56*-Node60*:0.97, Node16*-Node20*:0.98
+7: Node15*-t010011, Node15*-t010010, Node3*-t000010, Node14*-t010000, Node57*-Node59*:0.99, Node3*-t000011, Node17*-Node18*:1.0, Node60*-Node62*:0.97, Node17*-Node19*:1.0, Node57*-Node58*:0.99, Node20*-Node21*:0.99, Node1*-t000001, Node60*-Node61*:1.0, Node20*-Node22*:0.99, Node1*-t000000, Node14*-t010001
+8: Node61*-t001101, Node21*-t011100, Node58*-t001001, Node58*-t001000, Node59*-t001011, Node18*-t011001, Node59*-t001010, Node18*-t011000, Node19*-t011011, Node62*-t001111, Node22*-t011110, Node62*-t001110, Node21*-t011101, Node22*-t011111, Node19*-t011010, Node61*-t001100
+Order Dictionary Group 1 & 2 with Averages:
+1: 85.0
+2: 97.0
+3: 65.5
+4: 91.2
+5: 96.2
+6: 97.5
+Order Dictionary Group 3 & 4 with Averages:
+1: 99.5
+2: 48.0
+3: 64.5
+4: 86.0
+5: 89.2
+6: 95.2
+7: 99.1
